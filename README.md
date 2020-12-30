@@ -21,7 +21,7 @@ Download ucfQNRF Dataset from [ucfQNRF](https://www.crcv.ucf.edu/data/ucf-qnrf/)
 
 Here is the data set that we preprocessed during the experiment. link: https://pan.baidu.com/s/1ldpgLF9zM3yJZtv_hJVIFw extraction code: s6tv
 
-##  References
+##  Notes
 
 The src file contains our code, and the core idea involves two files [models.py](https://github.com/zhoumiga/MDPD/tree/main/src) and [network.py](https://github.com/zhoumiga/MDPD/tree/main/src). As this method is useful in one of our projects, the complete code will not be uploaded until the end of the project.However, our method draws on the framework of [CSRNet](https://github.com/leeyeehoo/CSRNet-pytorch), so friends who are interested can refer to the framework of A and the above two documents for experimental reproduction.
 
