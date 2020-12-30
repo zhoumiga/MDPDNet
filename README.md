@@ -29,7 +29,7 @@ densitymap.py is used to generate a density map on the image test set we used.
 
 ## Training
 ```
-python train.py
+python train.py json/train.json json/val.json 0 0
 ```
 ## Testing
 ```
