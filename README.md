@@ -13,11 +13,11 @@ PyTorch: 0.4.1
 
 ## downloaded dataset
 
-[shanghaitech](https://pan.baidu.com/s/1nuAYslz)  
+Download ShanghaiTech Dataset from [shanghaitech](https://pan.baidu.com/s/1nuAYslz)  
 
-[ucfcc50](https://www.crcv.ucf.edu/data/ucf-cc-50/)  
+Download ucfcc50 Dataset from [ucfcc50](https://www.crcv.ucf.edu/data/ucf-cc-50/)  
 
-[ucfQNRF](https://www.crcv.ucf.edu/data/ucf-qnrf/)  
+Download ucfQNRF Dataset from [ucfQNRF](https://www.crcv.ucf.edu/data/ucf-qnrf/)  
 
 这边是我们在做实验时预处理过的数据集 链接: https://pan.baidu.com/s/1ldpgLF9zM3yJZtv_hJVIFw 提取码: s6tv
 
